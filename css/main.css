@@ -33,28 +33,28 @@ h1	{
 }
 
 h2	{
-    font-family: 'Yellvetica-Regular', 'Helvetica';
+    font-family: 'Yellvetica-Regular', Helvetica;
 	font-size: 12px;
 	line-height: 32px;
 	font-weight: 400;
 }
 
 h3	{
-    font-family: 'Yellvetica-Bold', 'Helvetica';
+    font-family: 'Yellvetica-Bold', Helvetica;
 	font-size: 14px;
 	line-height: 18px;
 	font-weight: 900;
 }
 
 h4 {
-    font-family: 'Yellvetica-Regular', 'Helvetica';
+    font-family: 'Yellvetica-Regular', Helvetica;
 	font-size: 12px;
 	line-height: 18px;
 	font-weight: 400;
 }
 
 p	{
-    font-family: 'Yellvetica-Regular', 'Helvetica';
+    font-family: 'Yellvetica-Regular', Helvetica;
 	font-size: 9px;
 	line-height: 14px;
 	font-weight: 400;
