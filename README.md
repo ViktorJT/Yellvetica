@@ -1,5 +1,7 @@
 # Yellvetica
 
+https://viktorjt.github.io/Yellvetica/
+
 The only font needed for insensible online debate. 
 
 The clear choice of any web-project needing a font that is as obtuse, graceless and aggressive as todays commentboards.
@@ -15,3 +17,5 @@ I suspect this font will revolutionize the 'Time-To-Yell' (or TTY, for short) re
 
 Break constructive discourse with ill constructed sticks and stones,
 Use Yellvetica in your next digital product today!
+
+https://viktorjt.github.io/Yellvetica/
