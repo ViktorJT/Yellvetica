@@ -2,20 +2,25 @@
 
 https://viktorjt.github.io/Yellvetica/
 
-The only font needed for insensible online debate. 
+The only font designed for insensible online debate. 
 
-The clear choice of any web-project needing a font that is as obtuse, graceless and aggressive as todays commentboards.
+# Why?
 
-Yellvetica is a quick hack of the classic font helvetica that omits all lowercase and punctuation in favor for bold uppercase and exclamation points, effortlessly articulating nothing but imperative sentences so you don't have to!
+Yellvetica is the clear choice for any web-project looking to curate a vile and graceless community of un-likeminded individuals.
 
-Yellvetica has the same no-nonsense design of Helvetica, but provides much needed validity to even the most demonstrably false statements crafted by your users unhinged imagination.
+Demonstrably influence community engagement KPIs like 'Time-To-Yell' (TTY; for short): allowing mere moments of peace before cooking up a bad-vibe battle-royal.
 
-'I read a small part of a medium article and now harbour large opinions!'
-- typical yellvetica user
+Break constructive discourse with ill constructed sticks and stones, today.
 
-I suspect this font will revolutionize the 'Time-To-Yell' (or TTY, for short) required before a yellvetica user inevitably bullies their antagonist into a Ouroboros-esque screaming match.
+# How?
 
-Break constructive discourse with ill constructed sticks and stones,
+As the un-official stepdad of the beloved Helvetica typeface; Yellvetica speaks only in imperative sentences. 
+
+Bye-bye, meticulously designed lowercase characters and punctuation. 
+Hello, alpha-male uppercase and exclamation points.
+
+
+
 Use Yellvetica in your next digital product today!
 
 https://viktorjt.github.io/Yellvetica/
